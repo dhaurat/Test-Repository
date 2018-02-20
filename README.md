@@ -4,4 +4,4 @@ hello world
 
 # here is my branch
 
-This is terrible
+This is not terrible
